@@ -1,4 +1,3 @@
-import { Extends } from "ts-toolbelt/out/Any/Extends";
 import { Equal, Expect } from "../../helpers/type-utils";
 
 type Fruit = "apple" | "banana" | "orange";
